@@ -11,5 +11,5 @@ Melalui aplikasi ini, pengguna dapat melakukan proses penginputan data pesanan s
 - **Database SQL**: MySQL.
   
 ## How To Run?
-Cd src > cd project_kain > cd login.java<br>
-Jalankan di terminal dengan perintah javac java login.java
+cd src/project_kain<br>
+Jalankan file login.java pada terminal dengan perintah javac login.java
